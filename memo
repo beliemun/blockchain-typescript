@@ -1,0 +1,6 @@
+[메모]
+
+1. npm i tsc-watch -D 설치해주고
+Cannot find module 'typescript/bin/tsc' 에러나면 다음 2번을 설치한다.
+
+2. npm i -D @types/node typescript ts-node 
